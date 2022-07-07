@@ -279,3 +279,26 @@ public class viewactivity extends AppCompatActivity {
 
     }
 }
+
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<Employee>
+    <City_name>banglore</City_name>
+    <Latitude>65.5</Latitude>
+    <Longitude>46.5</Longitude>
+    <Temperature>60</Temperature>
+    <Humidity>16</Humidity>
+</Employee>
+
+
+{
+  "Employee":{
+    "City_name":"banglore",
+    "Latitude":65.5,
+    "Longitude":46.5,
+    "Temperature":60,
+    "Humidity":16
+  }
+}
+
+
